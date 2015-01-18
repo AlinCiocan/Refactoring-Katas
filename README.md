@@ -9,3 +9,6 @@ This repo used to be a collection of starting files for several different code k
 - [Yahtzee](https://github.com/emilybache/Yahtzee-Refactoring-Kata)
 
 For more information about these and other katas, you may be interested in my book [The Coding Dojo Handbook](http://leanpub.com/codingdojohandbook)
+
+--------------------------------
+- More katas on [Code Kata](http://codekata.com/)
