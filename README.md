@@ -7,9 +7,10 @@ This repo used to be a collection of starting files for several different code k
 - [Tennis](https://github.com/emilybache/Tennis-Refactoring-Kata)
     Videos:  
     - https://www.youtube.com/watch?v=AG7QLZ7je-s
-
+    - https://www.youtube.com/channel/UCUisSi9nkbMIP1UUwTMgOqw/videos
 - [Gilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata)
     - https://www.youtube.com/watch?v=iwWqlqXzrwU
+    - https://www.youtube.com/user/magicmonty/videos
 - [Yahtzee](https://github.com/emilybache/Yahtzee-Refactoring-Kata)
 
 For more information about these and other katas, you may be interested in my book [The Coding Dojo Handbook](http://leanpub.com/codingdojohandbook)
