@@ -17,3 +17,6 @@ For more information about these and other katas, you may be interested in my bo
 
 --------------------------------
 - More katas on [Code Kata](http://codekata.com/)
+
+--------------------------------
+TDD kata roy osherove - http://osherove.com/tdd-kata-1/
